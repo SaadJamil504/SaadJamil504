@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Jamil</h1>
-- 🌱 I’m currently learning **Data Science**.
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **saadjamil504@gmail.com**
 
